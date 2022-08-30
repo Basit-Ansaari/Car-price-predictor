@@ -2,7 +2,7 @@
 
 Project link: 
 
-
+<img src="https://github.com/Basit-Ansaari/Car-price-predictor/blob/main/demo.png">
 
 
 
